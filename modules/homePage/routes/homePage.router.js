@@ -19,7 +19,7 @@ const {addPartnersImage , deletePartenersImage , getAllPartnersImages , addNums 
 
 const isAuthirized = require('../../../common/middleware/isAuthorized')
 
-
+// https://best-car.herokuapp.com/
 // isAuthirized(HOME_PAGE_ADMIN) ,
 // isAuthirized(HOME_PAGE_ADMIN) ,
 // this is what i want
